@@ -1,3 +1,6 @@
+//QuickSort takes O(N^2)time complexity and O(logN) space complexity in worst case but we can prevent that by shuffling the array.
+//In average case it takes O(N*logN)
+
 import java.util.Random;
 
 public class QuickSort {
