@@ -1,3 +1,4 @@
+//MergeSort takes O(N*logN) time complexity and O(N) space complexity in worst possible case.(Not In-place Sorting Algorithm)
 
 public class Mergesort {
 	
