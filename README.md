@@ -1,2 +1,3 @@
 # Java-Algorithms
-Different Java Algorithms Examples
+
+Implementations of different Algorithms in Java.
